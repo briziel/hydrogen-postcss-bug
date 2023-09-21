@@ -136,6 +136,11 @@ aside li {
   position: sticky;
   top: 0;
   z-index: 1;
+
+  @media (--S_to_XL) {
+    display: flex;
+    background: linear-gradient(#e98a00, #f5aa2f); 
+  }
 }
 
 .header-menu-mobile-toggle {

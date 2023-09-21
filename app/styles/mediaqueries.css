@@ -1,0 +1,17 @@
+@custom-media --up_to_S (max-width: 359px);
+@custom-media --up_to_M (max-width: 599px);
+@custom-media --up_to_L (max-width: 1023px);
+@custom-media --up_to_XL (max-width: 1439px);
+
+@custom-media --S_and_up (min-width: 360px);
+@custom-media --M_and_up (min-width: 600px);
+@custom-media --L_and_up (min-width: 1024px);
+@custom-media --XL_and_up (min-width: 1440px);
+
+
+@custom-media --S_to_M (min-width: 360px) and (max-width: 599px);
+@custom-media --S_to_L (min-width: 360px) and (max-width: 1023px);
+@custom-media --S_to_XL (min-width: 360px) and (max-width: 1439px);
+@custom-media --M_to_L (min-width: 600px) and (max-width: 1023px);
+@custom-media --M_to_XL (min-width: 600px) and (max-width: 1439px);
+@custom-media --L_to_XL (min-width: 1024px) and (max-width: 1439px);

@@ -33,8 +33,11 @@
     "@types/eslint": "^8.4.10",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
+    "autoprefixer": "^10.4.16",
     "eslint": "^8.20.0",
     "eslint-plugin-hydrogen": "0.12.2",
+    "postcss-custom-media": "^10.0.1",
+    "postcss-nested": "^6.0.1",
     "prettier": "^2.8.4",
     "typescript": "^5.2.2"
   },
